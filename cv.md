@@ -1,5 +1,5 @@
 * Denis Moiseev
-*   + Telegram: [https://t.me/adhdenis](@adhdenis)
+*   + Telegram: [@adhdenis](https://t.me/adhdenis)
     + Discord: Randomshot#4136
 * Learning coding both as necessary tool and way of creative expression. Intersted in making web more interactive and immersive. 
 * Currently can write and read simple code in JavaScript, C, Go. Comfortable with adaptive styling using CSS and HTML. Also understand the importance of Git in collaborative work :)
